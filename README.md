@@ -1,0 +1,1 @@
+Questa repository contiene dati e scripts per replicare l'esperimento della tesi "Analisi della Correlazione tra Data Smells, Prestazioni, Fairness e Sostenibilità nei Sistemi basati su Machine Learning" oltre alle analisi complete realizzate.
